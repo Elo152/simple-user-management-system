@@ -21,7 +21,7 @@ A **User Management System** built with the **Model-View-Controller (MVC)** arch
 ## Installation
 
 1. **Clone the repository**:
-git clone https://github.com/your-username/user-management-system.git
+git clone https://github.com/Elo152/user-management-system.git
 2. **Configure the database**:
 - Create a MySQL database name(db_admin)
 - Import the provided SQL file
